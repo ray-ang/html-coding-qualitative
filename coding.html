@@ -23,6 +23,7 @@
 				  	<option></option>
 				    <option value="code-sad">Sad Moment : code-sad</option>
 				    <option value="code-happy">Happy Moment : code-happy</option>
+				    <option value="theme-moments">Moments : theme-moments</option>
 				  </select>
 				</div>
 				<button type="button" class="btn btn-primary" onclick="searchCode()">Search</button>
@@ -40,6 +41,10 @@
 	// Codes
 	const happy = document.querySelectorAll('.code-happy');
 	const sad = document.querySelectorAll('.code-sad');
+
+	// Themes
+	happy.forEach(code => code.classList.add('theme-moments'));
+	sad.forEach(code => code.classList.add('theme-moments'));
 
 	// Reset
 	function resetCode() {
