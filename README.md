@@ -1,8 +1,8 @@
-## HTML Coding for QDA
-Qualitative Data Analysis (QDA) - Coding using HyperText Markup Language (HTML)
+## HTML-QDA
+HyperText Markup Language (HTML) Coding for Qualitative Data Analysis (QDA)
 
 ### Description
-<em>HTML Coding for QDA</em> is a process of transcribing or coding raw data for qualitative analysis using HyperText Markup Language or HTML. The HTML-transcribed data can then be presented and analyzed using web technologies (i.e. HTML, CSS and JavaScript).
+<em>HTML-QDA</em> is a process of transcribing or coding raw data for qualitative analysis using HyperText Markup Language or HTML. The HTML-transcribed data can then be presented and analyzed using web technologies (i.e. HTML, CSS and JavaScript).
 
 ### Features
 1. Data portability and interoperability
